@@ -40,7 +40,7 @@ export class AppComponent implements OnInit {
       gridLineWidth: 1,
       offset: 30,
       labels: {
-        format: '{value:%H}'
+        format: '{value:%H}h'
       }
     }, {
       linkedTo: 0,
